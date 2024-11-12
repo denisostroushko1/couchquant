@@ -1,0 +1,10 @@
+Package: couchquant
+Title: Couch-Quant. R Pakcage for statistical and quantatative analysis of market-trading strategies 
+Version: 0.1.0
+Authors@R: 
+    person("Denis", "Ostroushko", , "denisostroushko1@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Compilation of packages to evaluate and back-test trading strategies for financial markets. This package enables you to evaluate performance of trading strategy on realized markets, as well as hypothetical market scenarios. 
+Encoding: UTF-8
+Depends: R (>= 3.5.0)
+RoxygenNote: 7.3.2
